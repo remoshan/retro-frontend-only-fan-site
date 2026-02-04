@@ -9,14 +9,9 @@
 
 ### Visuals
 
-<!-- Add your screenshots here after uploading to GitHub (Settings → General → Attachments) -->
-<!-- Example:
-![Home Page](https://github.com/user-attachments/assets/your-home-screenshot-id)
-![History Page](https://github.com/user-attachments/assets/your-history-screenshot-id)
-![Gallery Page](https://github.com/user-attachments/assets/your-gallery-screenshot-id)
--->
-
-_Add screenshots of the Home, History, and Gallery pages here once uploaded to your repository._
+<img width="1919" height="920" alt="Home Page" src="https://github.com/user-attachments/assets/a3646808-b161-4111-b7be-e3ab68ba8b6c" />
+<img width="1919" height="921" alt="History Page" src="https://github.com/user-attachments/assets/ac27d0ec-ec81-4e67-a4d9-b23a314d7584" />
+<img width="1918" height="921" alt="Gallery Page" src="https://github.com/user-attachments/assets/830e798f-48ca-4178-bdf1-8109e13a5905" />
 
 ---
 
@@ -64,7 +59,7 @@ Clone the repository and open the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/remoshan/retro-fan-site-90s-style.git
+git clone https://github.com/remoshan/retro-frontend-only-fan-site.git
 
 # Move into the project directory
 cd retro-fan-site-90s-style
